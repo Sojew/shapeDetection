@@ -1,2 +1,2 @@
 # shapeDetection
-Basic shape detection Python using OpenCv and numpy.
+Basic shape detection w/ Python using OpenCv and numpy.
